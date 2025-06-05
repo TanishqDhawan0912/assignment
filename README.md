@@ -67,6 +67,8 @@ A RESTful API system for submitting data ingestion requests and checking their s
     ```
 
 #### Ingestion API Success Screenshot
+![image](https://github.com/user-attachments/assets/38329654-a7d1-4d62-abdb-2b62b4015b2e)
+
 
 ### Status API
 
@@ -84,6 +86,8 @@ A RESTful API system for submitting data ingestion requests and checking their s
     ```
 
 #### Status API Success Screenshot
+![image](https://github.com/user-attachments/assets/1618aa2f-f637-4930-ba3d-1c45466f85ed)
+
 
 ## Design Choices
 
